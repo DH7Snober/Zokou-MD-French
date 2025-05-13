@@ -49,7 +49,7 @@ Zokou est un bot multi-devices conçu pour enrichir vos conversations WhatsApp a
   7. Dans la section **environemment variable**, cliquez sur **Add from .env** et copiez le contenu suivant :
 
 ```env
-PREFIXE=.
+PREFIXE=🤗
 LECTURE_AUTO_STATUS=non
 TELECHARGER_AUTO_STATUS=non
 NOM_BOT=Zokou-MD
@@ -59,14 +59,14 @@ MODE_PUBLIC=oui
 ETAT=1
 SESSION_ID=zokk
 NOM_OWNER=Djalega++
-NUMERO_OWNER=22891733300
+NUMERO_OWNER=509 32 04 2755
 WARN_COUNT=3
 STARTING_BOT_MESSAGE=oui
 ANTI_VUE_UNIQUE=oui
 PM_CHATBOT=non
 HEROKU=non
-ANTI_COMMAND_SPAM=non
-ANTI_DELETE_MESSAGE=oui
+ANTI_COMMAND_SPAM=oui
+ANTI_DELETE_MESSAGE=non
 AUTO_REACT_MESSAGE=non
 ```
 
